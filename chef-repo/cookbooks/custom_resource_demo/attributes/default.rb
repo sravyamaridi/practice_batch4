@@ -1,0 +1,1 @@
+default['custom_resource_demo']['appserver']['package_name'] = 'tomcat7'
